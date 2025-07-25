@@ -159,11 +159,5 @@ Both LSTM and GRU models are trained and evaluated for comparison:
 - **LSTM**: Better at capturing long-term dependencies
 - **GRU**: Faster training with comparable performance
 
-## 🤝 Contributing
-Feel free to fork this project and submit pull requests for improvements!
-
-## 📄 License
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 📌 Conclusion
 This end-to-end NLP project showcases how deep learning can be used for next word prediction. With both **LSTM** and **GRU** models implemented and deployed, this project serves as a practical example of sequence modeling and real-world application via **Streamlit**.
